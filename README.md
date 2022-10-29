@@ -24,8 +24,10 @@
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
 - 👋 Hi, I’m @AndreaDev14
-- 👀 I’m interested  in growing and learning new Skills for becoming an experienced FrontEnd Developer
+- 👀 I’m interested  in growing and learning new Skills for becoming an experienced Software Developer
 - 🌱 I’m currently learning React
+- ⚡ In my free time I like to solve problems on [frontend Mentor](https://www.frontendmentor.io/)
+- 🧐 Take a look at my projects on Frontend Mentor [AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
 <img src="https://komarev.com/ghpvc/?username=AndreaDev14&style=flat-square&color=blue" alt=""/>
 
 ---
