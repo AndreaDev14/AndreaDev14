@@ -26,8 +26,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
-- 👋 Hi, I’m @AndreaDev14
+Hi, I am a Software Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
+
 - 👀 I’m interested  in growing and learning new Skills for becoming an experienced Software Developer
 - 🌱 I’m currently learning React
 - ⚡ In my free time I like to solve problems on [frontend Mentor](https://www.frontendmentor.io/)
