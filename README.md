@@ -16,13 +16,17 @@
   </a>
 
 </div>
+ <div  align="center">
+ 
+ <img src="https://media.giphy.com/media/cn2E4nKGGNb1eqAv3K/giphy.gif"/>
+  </div>
 
-![banner](https://user-images.githubusercontent.com/108431169/192870239-9a66771d-e2bc-4f08-be96-d9cc53fea143.png)
+
 
 ---
 
 ### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
+I am a Software Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
 - 👋 Hi, I’m @AndreaDev14
 - 👀 I’m interested  in growing and learning new Skills for becoming an experienced Software Developer
 - 🌱 I’m currently learning React
