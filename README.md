@@ -1,15 +1,13 @@
 
 <div id="header" align="center">
 <h1>
-  Hi, I'm andrea
+  Hi, I'm L. Andrea
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
   
   <div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ 
  
   <a href="https://twitter.com/Andreadev9">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -26,10 +24,9 @@
 ---
 
 ### :woman_technologist: About Me :
-Hi, I am a Software Developer <img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
+Hi, I'm QA Engineer<img src="https://media.giphy.com/media/iFOxtmdDxbaoq60EUg/giphy.gif" width="40"> 
 
-- 👀 I’m interested  in growing and learning new Skills for becoming an experienced Software Developer
-- 🌱 I’m currently learning QA Testing
+- 👀 I’m interested  in growing and learning new Skills for becoming an experienced QA Tester
 - ⚡ In my free time I like to solve problems on [frontend Mentor](https://www.frontendmentor.io/)
 - 🧐 Take a look at my projects on Frontend Mentor [AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
 <img src="https://komarev.com/ghpvc/?username=AndreaDev14&style=flat-square&color=blue" alt=""/>
